@@ -1,5 +1,4 @@
-- name : setup DB server
-  hosts: localhost
+ hosts: localhost
   tasks:
    debug:
     msg: "Iam node1"
