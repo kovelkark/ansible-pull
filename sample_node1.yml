@@ -1,4 +1,4 @@
--name: sample playbook on node1
- tasks:
-  debug:
-   msg: "Iam node1"
+- name : sample playbook on node1
+   tasks:
+   debug:
+    msg: "Iam node1"
