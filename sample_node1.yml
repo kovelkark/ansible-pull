@@ -1,4 +1,4 @@
-hosts: localhost
-tasks:
- debug:
-  msg: "Iam node1"
+- hosts: localhost
+  tasks:
+   - debug:
+     msg: "Iam node1"
