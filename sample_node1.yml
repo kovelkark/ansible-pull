@@ -1,4 +1,4 @@
-- name : sample playbook on node1
+- name : setup DB server
   hosts: localhost
   tasks:
    debug:
